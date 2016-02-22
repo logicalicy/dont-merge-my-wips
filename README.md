@@ -16,6 +16,8 @@ Feel free to clone and modify however you like.
 
 ![Warning #2](/../master/screenshot-2.png?raw=true)
 
+![Disabled merge button](/../master/screenshot-3.png?raw=true)
+
 ## Installation
 1. Clone this repo
 2. Go to [chrome://extensions/](chrome://extensions/)
