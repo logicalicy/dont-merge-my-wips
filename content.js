@@ -19,7 +19,7 @@ if (button.length === 0) {
 else {
     if (count > 0) {
         $(button[0]).css('background-image', 'linear-gradient(red, darkred)');
-        $(button[0]).prop('disabled', true);
+        $(button[0]).css('color', 'white');
     }
     $(button[0]).click(function(event) {
         if (count === 0) {
