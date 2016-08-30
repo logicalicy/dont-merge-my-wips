@@ -9,7 +9,7 @@ $.each(commitMessages, function (key, message) {
 if (count > 0) {
     alert('You have ' + count + ' WIPs to squash.');
 }
-var button = $('.js-merge-branch-action');
+var button = $('.js-merge-pr');
 if (button.length === 0) {
     alert(
         'The "Don\'t merge my WIPs!" Chrome plugin cannot find the '
